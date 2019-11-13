@@ -1,0 +1,6 @@
+lecture-backend/node_modules/
+lecture-backend/mochawesome-report/
+lecture-frontend/mochawesome-report/
+lecture-frontend/node_modules/
+hotel-restfull/target/
+hoteljsf/target/
