@@ -4,3 +4,7 @@ lecture-frontend/mochawesome-report/
 lecture-frontend/node_modules/
 hotel-restfull/target/
 hoteljsf/target/
+lecture-backend/cypress/videos/
+lecture-frontend/cypress/videos/
+lecture-backend/cypress/videos/backend-testsuite.spec.js.mp4
+lecture-backend/cypress/videos/backend-testsuite.spec.js.mp4
